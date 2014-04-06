@@ -9,7 +9,7 @@ We will need:
 ----------
 - To set up a Web camera on arm
 - [Webcam XP](http://www.webcamxp.com/home.aspx) in online video streaming mode
-- Some ARM hardware improvement 
+- [Some ARM hardware improvement ](https://github.com/creepid/OWI-Robotic-Arm-Edge-firmware-server)
 
 Manipulate it in your browser!
 -------
