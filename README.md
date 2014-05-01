@@ -13,6 +13,8 @@ We will need:
 
 Manipulate it in your browser!
 -------
+![ARM EDGE login](http://s12.postimg.org/3tkgm6onh/remote_ARM0.jpg)
 ![ARM EDGE manipulation](http://s3.postimg.org/ynscjjxo3/remote_ARM1.png)
+![ARM EDGE connection settings](http://s2.postimg.org/40ep2pswp/remote_ARM2.jpg)
 Have fun!
 ===============
